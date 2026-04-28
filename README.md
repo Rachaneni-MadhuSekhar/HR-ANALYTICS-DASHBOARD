@@ -20,6 +20,10 @@ It analyzes employee attirition patterns across department , job roles , and var
 - Overtime impact in Attirition
 - Gender-wise Attirition Rate
 
+##DASHBOARD PREVIEW
+![image alt](https://github.com/Rachaneni-MadhuSekhar/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%202026-04-28%20092212.png?raw=true)
+
+
   ## Key Insights
 -  Highest attrition is observed in the Research & Development department
 -  Certain job roles (like Sales Executive & Laboratory Technician) show higher attrition

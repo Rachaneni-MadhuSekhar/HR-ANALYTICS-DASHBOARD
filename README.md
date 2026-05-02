@@ -21,7 +21,7 @@ It analyzes employee attirition patterns across department , job roles , and var
 - Gender-wise Attirition Rate
 
 ##DASHBOARD PREVIEW
-![image alt](https://github.com/Rachaneni-MadhuSekhar/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%202026-04-28%20092212.png?raw=true)
+![image alt](https://github.com/Rachaneni-MadhuSekhar/HR-ANALYTICS-DASHBOARD/blob/cb4448ed98ba1dfc6a79a7f5476a0bcd309b34e5/Screenshot%202026-05-02%20100510.png)
 
 
   ## Key Insights
